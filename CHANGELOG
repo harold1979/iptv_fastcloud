@@ -1,0 +1,33 @@
+1.6.2 /
+[Alexandr Topilski]
+- Stream quality
+
+1.6.1 / September 4, 2019
+[Alexandr Topilski]
+- Without subscribers
+- Stabilization
+
+1.6.0 / August 30, 2019
+[Alexandr Topilski]
+- Amazon Kinesis Video Streams integration
+- Windows msys2 build
+
+1.5.0 / August 22, 2019
+[Alexandr Topilski]
+- RTSP input bandwidth calc
+- Json parse optimizations
+- Http proxy for soup
+- IP cams handling
+- MacOSX build
+- FreeBSD build
+- Rtsp source element
+- StreamLink support
+- IP Camera
+- Deep learning initialization
+- Object detection
+- Channels on demand
+- Device count check
+- User agent
+- Data statistics in bytes, time in seconds
+- Stabilization
+- Avformat streams
